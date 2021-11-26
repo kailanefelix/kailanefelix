@@ -9,6 +9,7 @@ My name is Kailane, I'm from Brazil and I'm currently B.Sc. Student of Computer 
 Reach me out:
 * LinkedIn: [Kailane Felix](https://www.linkedin.com/in/kailane-felix/)
 * Twitter: [@kailanefelx](https://twitter.com/kailanefelx)
+* YouTube: [Kailane Felix - CIn UFPE](https://www.youtube.com/channel/UCi_t_X9awkeEzaiOh7oUPow)
 * E-mail: kailanefelx@gmail.com
 
 <div align="left">
