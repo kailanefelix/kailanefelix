@@ -1,6 +1,7 @@
 ## Hey! 
 
-I'm Kailane — Data Scientist based in Brazil 🇧🇷  
+I'm Kailane — Data Scientist based in Brazil <img width="16" height="12" alt="image" src="https://github.com/user-attachments/assets/346993cc-8ebf-42a1-b562-cbd4e55f1a43" />
+
 Computer Science @ UFPE  
 
 📊 Working with machine learning, time series, and data systems in production  
